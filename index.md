@@ -78,10 +78,30 @@ Hi, My name is Nupur and I am a 10th grader at DNHS.
 <html>
 
 ## Calculator
-<details>
-<summary>Click to show calculator</summary>
+# Adventure Game
 
-<iframe src="https://www.calculator.net/embedded-calculator.aspx?v=p" style="width: 100%; height: 500px; border: none;"></iframe>
+You find yourself in a dark room. There are two doors in front of you.
+
+Do you want to go through:
+
+1. The left door
+2. The right door
+
+[Choose 1 or 2]
+
+<details>
+<summary>Click for result</summary>
+
+## Result
+
+You chose the {{choice}} door.
+
+<details>
+<summary>Click to continue</summary>
+
+You open the door and find a treasure chest. Congratulations!
+
+</details>
 
 </details>
 
