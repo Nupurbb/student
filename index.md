@@ -6,6 +6,11 @@ title: Student blog
 
 ## Nupurs Page 
 
+
+<img src="https://github.com/nighthawkcoders/student/assets/128272483/e7aed228-6b0e-4efd-bc62-c246a98a8ae8"
+width="300"
+height="500"
+/>
 ![unnamed](https://github.com/nighthawkcoders/student/assets/128272483/e7aed228-6b0e-4efd-bc62-c246a98a8ae8)
 
 ## About ME
