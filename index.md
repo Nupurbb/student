@@ -25,8 +25,9 @@ Hi, My name is Nupur and I am a 10th grader at DNHS.
 |Period 3| Ap Calc|
 |Period 4| APES|
 
- ## Fun Facts
+## Fun Facts
  - Fun Facts about me: I have traveled to 6 continents. My favorite vacation/destination I have been to is New Zealand. I love to bake cookies and brownies. I have an older sister.
+ - My favorite animal
 
 
 
