@@ -27,7 +27,10 @@ Hi, My name is Nupur and I am a 10th grader at DNHS.
 
 ## Fun Facts
  - Fun Facts about me: I have traveled to 6 continents. My favorite vacation/destination I have been to is New Zealand. I love to bake cookies and brownies. I have an older sister.
- - My favorite animal
+ - My favorite animal is a panda.
+ <img src="(https://github.com/nighthawkcoders/student/assets/128272483/55ecbe78-ea81-47fc-b658-ecb4180229e5)"
+width="300"
+height="500"
 
 
 
