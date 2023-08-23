@@ -77,4 +77,12 @@ Hi, My name is Nupur and I am a 10th grader at DNHS.
 </table>
 <html>
 
+## Calculator
+<details>
+<summary>Click to show calculator</summary>
+
+<iframe src="https://www.calculator.net/embedded-calculator.aspx?v=p" style="width: 100%; height: 500px; border: none;"></iframe>
+
+</details>
+
 

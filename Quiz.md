@@ -4,40 +4,39 @@ title: Student blog
 ---
 ## Quiz About Us
 ## Question 1
-What is the capital of France?
+What is the name of my partner?
 
-A) London
-B) Madrid
-C) Paris
-D) Rome
+A) Anika
+B) Shriya
+C) Sreeja
+D) Aarti
 
 <details>
 <summary>Click to reveal the correct answer</summary>
-The correct answer is C) Paris.
+The correct answer is C) Sreeja.
 </details>
 
 ## Question 2
-Which planet is known as the "Red Planet"?
-
-A) Venus
-B) Mars
-C) Jupiter
-D) Saturn
+What is my favorite animal?
+A) dog
+B) panda
+C) cat
+D) rat
 
 <details>
 <summary>Click to reveal the correct answer</summary>
-The correct answer is B) Mars.
+The correct answer is B) panda.
 </details>
 
 ## Question 3
-Who wrote the play "Romeo and Juliet"?
+What Age did I start playing tennis?
 
-A) Mark Twain
-B) William Shakespeare
-C) Jane Austen
-D) Charles Dickens
+A) 6
+B) 7
+C) 8
+D) 9
 
 <details>
 <summary>Click to reveal the correct answer</summary>
-The correct answer is B) William Shakespeare.
+The correct answer is B) 7.
 </details>
