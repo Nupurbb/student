@@ -77,32 +77,35 @@ Hi, My name is Nupur and I am a 10th grader at DNHS.
 </table>
 <html>
 
-## Calculator
-# Adventure Game
-
-You find yourself in a dark room. There are two doors in front of you.
-
-Do you want to go through:
-
-1. The left door
-2. The right door
-
-[Choose 1 or 2]
+## Number Guessing Game
 
 <details>
-<summary>Click for result</summary>
+<summary>Click to play the game</summary>
 
-## Result
+<div id="game-container">
+  <p>Welcome to the Number Guessing Game!</p>
+  <p>Try to guess the secret number between 1 and 100.</p>
+  <input type="number" id="guessInput" placeholder="Enter your guess">
+  <button onclick="checkGuess()">Submit Guess</button>
+  <p id="result"></p>
+</div>
 
-You chose the {{choice}} door.
+<script>
+const secretNumber = Math.floor(Math.random() * 100) + 1;
+let attempts = 0;
 
-<details>
-<summary>Click to continue</summary>
+function checkGuess() {
+  const guess = parseInt(document.getElementById("guessInput").value);
+  attempts++;
 
-You open the door and find a treasure chest. Congratulations!
+  if (guess === secretNumber) {
+    document.getElementById("result").textContent = `Congratulations! You guessed the number ${secretNumber} in ${attempts} attempts.`;
+  } else if (guess < secretNumber) {
+    document.getElementById("result").textContent = "Try higher!";
+  } else {
+    document.getElementById("result").textContent = "Try lower!";
+  }
+}
+</script>
 
 </details>
-
-</details>
-
-
