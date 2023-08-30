@@ -1,13 +1,11 @@
 ---
-title: Classic Snake Game
-layout: base
-description: A pretty advanced use of JavaScript building classic snake game using menu controls, key events, snake simulation and timers.  
-permalink: /frontend/snake
-image: /images/snake.png
-categories: [C4.9]
-tags: [javascript]
-type: hacks
-courses: { compsci: {week: 1}}
+toc: true
+comments: true
+layout: post
+title: Snake Game
+description: Snake Game
+type: tangibles
+courses: { compsci: {week: 2} }
 ---
 
 

@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Simple Calculator</title>
 <style>
-  /* Add your CSS styling here */
   body {
     font-family: Arial, sans-serif;
   }
@@ -85,7 +84,6 @@
 <title>Graphing Calculator</title>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <style>
-  /* Add your CSS styling here */
   body {
     font-family: Arial, sans-serif;
   }
