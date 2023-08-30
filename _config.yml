@@ -15,6 +15,7 @@ baseurl: "/student"
 
 
 
+
 plugins:
 - jekyll-remote-theme
 future: true
