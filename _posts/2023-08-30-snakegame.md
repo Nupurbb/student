@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Week Plans
+title: Snake game
 description: Become one with your tools.  They could be more important than code, code, coding.
 type:  tangibles
 courses: { csse: {week: 0}, csp: {week: 0, categories: [4.A]}, csa: {week: 0} }
